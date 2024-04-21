@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Thanh Tinh, I am currently a student at Ho Chi Minh City University of Technology
 <!--
 **Unray12/Unray12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

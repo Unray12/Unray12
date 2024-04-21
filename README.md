@@ -1,9 +1,8 @@
 ### Hi there 👋
-My name is Thanh Tinh, I am currently a student at Ho Chi Minh City University of Technology
+My name is Thanh Tinh, I am currently a student at Ho Chi Minh City University of Technology.
 
-### Skills and Experience
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unray12)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unray12&show_icons=true&theme=radical)
 <!--
 **Unray12/Unray12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

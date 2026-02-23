@@ -16,7 +16,7 @@ My name is Thanh Tinh, I am currently a student at Ho Chi Minh City University o
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ### Github Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Unray12)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Unray12&theme=highcontrast)](https://git.io/streak-stats)
 
 
 <!--

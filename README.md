@@ -17,6 +17,10 @@ My name is Thanh Tinh, I am currently a student at Ho Chi Minh City University o
 
 ### Github stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Unray12&show_icons=true&theme=radical)
+
+<img src="https://raw.githubusercontent.com/Unray12/Unray12/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **Unray12/Unray12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
